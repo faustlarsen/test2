@@ -27,6 +27,12 @@ ul li a:hover{
   color: white; 
 }
 
+a {
+  text-decoration: none;
+}
+
+
+
 .box1 {
   border-radius: 20px;
   float: right;
@@ -44,16 +50,13 @@ ul li a:hover{
   padding: 20px;
 }
 
-a {
-  text-decoration: none;
-}
 
 .box2 {
   border-radius: 20px;
   float: left;
-  font-style: italic;
+  font-style: sans-serif;
   margin-top: 20px;
-  margin-left: 15px;
+  margin-left: 20px;
   width: 30%;
   height: 62%;
   border: solid black;
@@ -61,6 +64,9 @@ a {
   background-color: rgb(247, 247, 246);
   text-align: center;
   color:black;
-  font-size: 20px;
+  font-size: 16px;
+  letter-spacing: 4px;
+  line-height: 4;
+  font-weight: bold;
   
 }
