@@ -35,4 +35,4 @@ _HTML/CSS_
   
 
 
-Copyright (c) 2020 **_Constantine_**
+Copyright (c) 2020 **_Constantine Yakubovski_**
